@@ -1,5 +1,5 @@
 # Модель: Оптимальне керування процесом очищення водойми
-# Автор: Брагар Софія в групі з Маляренко Анастасією, група АІ-233
+# Автор: Маляренко Анастасія в групі з Брагар Софією, група АІ-233
 import numpy as np
 from scipy.integrate import solve_ivp
 from scipy.optimize import minimize
